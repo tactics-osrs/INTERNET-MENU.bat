@@ -34,6 +34,8 @@ The script includes options to:
 
 11. Disable/Enable Network Adapter: This disables and then enables your network adapter. This can sometimes resolve issues with the network adapter.
 
+12. Set your IP to automatic DHCP. (This can help if you cannot connect via ethernet due to DHCP settings set to manual, wrong settings ect.)
+
 ## NOTES
 After each operation, the script returns to the menu until the user chooses to exit. Please remember to run this script with administrative privileges to ensure the commands can execute properly.
 
@@ -43,6 +45,7 @@ Please replace “Ethernet” with the name of your network adapter if it’s di
 This batch file was written for personal utility and for educational/experience purposes only. Do not mis-use this file. I do not hold any responsibility of the use/misuse of this script. The code is open-source, of course! As it's a .bat file, please save it as such if you are going to copy the raw code to your notepad.
 
 ## PREVIEW OF MENU
-![image](https://github.com/tactics-osrs/INTERNET-MENU.bat/assets/76490725/8670dfec-4a0c-41fe-a833-99977cb89031)
+![image](https://github.com/tactics-osrs/INTERNET-MENU.bat/assets/76490725/934bc3bd-5101-4d56-86ee-3f5114384bf9)
+
 
 
