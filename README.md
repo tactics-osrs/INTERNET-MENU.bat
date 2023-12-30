@@ -48,4 +48,7 @@ This batch file was written for personal utility and for educational/experience 
 ![image](https://github.com/tactics-osrs/INTERNET-MENU.bat/assets/76490725/934bc3bd-5101-4d56-86ee-3f5114384bf9)
 
 
+If you would like to see any modifications done, or any options you want isolated/removed into a stand-alone .bat script/option or custom menu feel free to let me know.
+
+
 
