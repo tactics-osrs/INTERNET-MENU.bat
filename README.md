@@ -1,6 +1,6 @@
 # Internet Troubleshooting Menu Script
 
-This repository contains a Batch script for Windows that provides a menu-driven interface for troubleshooting common internet and network issues. 
+This repository contains a Batch script for Windows that provides a menu-driven interface for troubleshooting common internet and network issues. Below are the 12 Features.
 
 ## FEATURES
 The script includes options to:
